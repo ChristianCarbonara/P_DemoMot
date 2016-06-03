@@ -1,0 +1,30 @@
+/**
+* ETML
+* Auteur : Christian Carbonara
+* Date : 01.06.2016
+* Desciption : Feuille de style supplémentaire
+**/
+
+/* Body */
+body{
+    margin: 0;
+}
+
+/* Menu */
+.ui.fixed.menu[class*="top fixed"] {
+    bottom: auto;
+    left: 0;
+    right: auto;
+    top: 0;
+}
+
+/* Container */
+.main.container {
+    margin-top: 7em;
+}
+
+/* Footer */
+.ui.footer.segment {
+    margin: 5em 0 0;
+    padding: 5em 0;
+}
