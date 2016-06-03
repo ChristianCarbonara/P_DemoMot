@@ -8,6 +8,7 @@
 
 ?> <!-- Fin php -->
 <footer>
+    <br>
     <div class="ui inverted vertical footer segment">
         <div class="ui center aligned container">
         </div>

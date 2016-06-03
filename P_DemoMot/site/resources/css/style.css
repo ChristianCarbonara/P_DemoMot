@@ -5,12 +5,22 @@
 * Desciption : Feuille de style supplémentaire
 **/
 
-/* Body */
+.info{
+    margin-top: 7em;
+    width: 100%;
+}
+/* html */
+html {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+/* body */
 body{
     margin: 0;
 }
 
-/* Menu */
+/* menu */
 .ui.fixed.menu[class*="top fixed"] {
     bottom: auto;
     left: 0;
@@ -18,13 +28,16 @@ body{
     top: 0;
 }
 
-/* Container */
+/* container */
 .main.container {
     margin-top: 7em;
 }
+.ui.container.about{
+    width: 700px;
+}
 
-/* Footer */
+/* footer */
 .ui.footer.segment {
-    margin: 5em 0 0;
+    margin-top: 10px;
     padding: 5em 0;
 }

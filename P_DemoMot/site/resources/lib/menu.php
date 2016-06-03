@@ -14,8 +14,9 @@ session_start();
     <div class="ui container">
         <a href="./index.php" class="header item">Fitbook</a>
         <a href="./listExercise.php" class="item">Liste de tous les exercices</a>
-        <a class="item">A propos</a>
+        <a href="./about.php" class="item">A propos</a>
         <div class="right menu">
         </div>
     </div>
 </div>
+<body>

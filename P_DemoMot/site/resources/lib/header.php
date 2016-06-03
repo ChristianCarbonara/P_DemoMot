@@ -13,16 +13,17 @@
 <head lang="fr">
 
 
-    <link href="../../resources/css/UI-Menu-master/menu.css" rel="stylesheet">
-    <link href="../../resources/css/UI-Menu-master/menu.min.css" rel="stylesheet">
-    <link href="../../resources/css/UI-Segment-master/segment.css" rel="stylesheet">
-    <link href="../../resources/css/UI-Segment-master/segment.min.css" rel="stylesheet">
-    <link href="../../resources/css/UI-Container-master/container.css" rel="stylesheet">
-    <link href="../../resources/css/UI-Container-master/container.min.css" rel="stylesheet">
+    <link href="../../resources/css/menu.css" rel="stylesheet">
+    <link href="../../resources/css/segment.css" rel="stylesheet">
+    <link href="../../resources/css/container.css" rel="stylesheet">
+    <link href="../../resources/css/form.css" rel="stylesheet">
+    <link href="../../resources/css/input.css" rel="stylesheet">
     <link href="../../resources/css/style.css" rel="stylesheet">
+    <link href="../../resources/css/semantic.css" rel="stylesheet">
+    <link href="../../resources/css/table.css" rel="stylesheet">
 
     <script src="../../src/js/validation.js"></script>
 
     <meta charset="UTF-8">
-    <title>C'est un titre</title>
+    <title>Fitbook</title>
 </head>

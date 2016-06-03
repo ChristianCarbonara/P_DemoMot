@@ -1,6 +1,6 @@
 <?php
 /**
- * Author: Christian Carbonara
+ * Auteur: Christian Carbonara
  * Date: 01.06.2016
  * Résumé: Page d'accueil
  */
