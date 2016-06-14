@@ -5,6 +5,11 @@
 * Desciption : Feuille de style supplémentaire
 **/
 
+.ui.form.formBox{
+    width: 400px;
+    align-content: c;
+}
+
 .info{
     margin-top: 7em;
     width: 100%;
