@@ -11,7 +11,8 @@
             <br>
             <div class="ui inverted vertical footer segment">
                 <div class="ui center aligned container">
-                    <h6>P_DemoMot, fait par Christian Carbonara</h6>
+                    <p>P_DemoMot, fait par Christian Carbonara</p>
+                    <p>A l'aide de amCharts et Semantic ui</p>
                 </div>
             </div>
         </footer>
