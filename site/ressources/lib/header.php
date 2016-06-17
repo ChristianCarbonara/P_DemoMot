@@ -28,6 +28,7 @@
         <script src="http://cdn.amcharts.com/lib/3/serial.js" type="text/javascript"></script>
         <script src="http://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
         <script src="../../src/js/graph.js" type="text/javascript"></script>
+        <script src="../../src/js/action.js" type="text/javascript"></script>
 
         <meta charset="UTF-8">
         <title>Fitbook</title>
